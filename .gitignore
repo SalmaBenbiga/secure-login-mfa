@@ -1,0 +1,20 @@
+# Environnement virtuel - ne doit jamais être partagé (chacun le recrée localement)
+venv/
+
+# Variables d'environnement - contient nos SECRETS (clés, mots de passe)
+.env
+
+# Base de données locale - contient des données utilisateurs réelles/test
+instance/
+*.db
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers IDE
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
