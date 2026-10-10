@@ -109,7 +109,7 @@ erDiagram
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/<ton-compte>/secure-login-mfa.git
+git clone https://github.com/SalmaBenbiga/secure-login-mfa.git
 cd secure-login-mfa
 
 # Créer et activer l'environnement virtuel
